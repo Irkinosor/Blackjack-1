@@ -1,0 +1,9 @@
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\bin\Debug\Blackjack.Test.dll
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\bin\Debug\Blackjack.Test.pdb
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\bin\Debug\Blackjack.exe
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\bin\Debug\nunit.framework.dll
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\bin\Debug\Blackjack.pdb
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\bin\Debug\nunit.framework.xml
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\obj\Debug\Blackjack.Test.csprojResolveAssemblyReference.cache
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\obj\Debug\Blackjack.Test.dll
+c:\users\aydin\documents\visual studio 2013\Projects\Blackjack\Blackjack.Test\obj\Debug\Blackjack.Test.pdb
